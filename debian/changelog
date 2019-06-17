@@ -1,0 +1,19 @@
+ros-kinetic-xbot-face (0.0.3) stable; urgency=high
+
+  * Fix lost wenhou and pub_camera_image executable file in lib dir.
+
+ -- XBOT <maintainer@droid.ac.cn>  Thu, 18 Apr 2019 00:11:23 -0000
+
+ros-kinetic-xbot-face (0.0.2) stable; urgency=high
+
+  * Fix that launching by roslaunch is failed.
+
+ -- XBOT <maintainer@droid.ac.cn>  Tue, 16 Apr 2019 10:37:37 -0000
+
+ros-kinetic-xbot-face (0.0.1) stable; urgency=high
+
+  * Add deb building.
+
+ -- XBOT <maintainer@droid.ac.cn>  Fri, 12 Apr 2019 08:08:11 -0000
+
+
